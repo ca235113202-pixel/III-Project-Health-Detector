@@ -1,0 +1,21 @@
+# IoT Health Monitoring System
+
+This project monitors patient health parameters using ESP8266.
+
+## Features
+- Heart Rate Monitoring
+- SpO2 Monitoring
+- Temperature Measurement
+- Fall Detection using MPU6050
+- Blynk IoT Dashboard Monitoring
+
+## Hardware Used
+- ESP8266 NodeMCU
+- MAX30100 Pulse Oximeter
+- MPU6050 Accelerometer
+- LCD I2C Display
+- Buzzer
+
+## Software Used
+- Arduino IDE / VS Code
+- Blynk IoT Platform
